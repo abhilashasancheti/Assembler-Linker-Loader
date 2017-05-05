@@ -1,0 +1,4 @@
+var g = 6
+var d = 4
+var a = 0
+a = d + g
